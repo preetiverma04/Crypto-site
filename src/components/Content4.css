@@ -1,0 +1,29 @@
+.Content_4_heading{
+    color:white;
+    margin-left:550px;
+    font-size: 50px;
+}
+.outer_h_div{
+    display: inline-flex;
+    gap:40px;
+    margin-top: -40px;
+    color: white;
+}
+.Content4_h_2{
+    color: rgb(0, 162, 255);
+   
+    margin-left: 525px;
+}
+.content4_text_image_outer{
+    display: inline-flex;
+    gap:100px;
+    margin-left: 70px;
+    color: white;
+    font-size: 13px;
+}
+.Content4img1 {
+    margin-left:10px;
+}
+.Content4img2,.Content4img3{
+margin-left: 60px;
+}

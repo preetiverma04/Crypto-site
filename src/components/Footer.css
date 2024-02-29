@@ -1,0 +1,39 @@
+.logofooter{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: 800;
+    padding: 20px;
+    display: flex;
+    color: #1A61ED;
+}
+.footerparagraph1{
+    color: white;
+    margin-left: 60px;
+}
+.footerlinks{
+    color: white;
+    margin-left: 100px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}.footerCommunity{
+    color: white;
+    margin-left: 120px;
+}
+.Communityjoin{
+    color: white;
+    margin-left: 90px;
+}
+.footercommunityparagraph{
+    color: white;
+    margin-left: -161px;
+
+}
+.footercontentmain{
+    display :inline-flex;
+}
+.footercontentouter{
+    display: inline-flex;
+ 
+ 
+}
